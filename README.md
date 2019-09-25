@@ -1,2 +1,2 @@
 # sturdy-potato
-repository-for-all
+учебные страницы HTML CSS
